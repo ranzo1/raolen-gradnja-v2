@@ -90,9 +90,9 @@ export default function Footer() {
             >
               <h3 className="h3 mb-3">Kontakt</h3>
               <div className="flex flex-col gap-6 text-[20px]">
-                <p>55 East Birchwood Ave. Brooklyn, New York 11201</p>
-                <p>contact@interno.com</p>
-                <p>(123) 456 - 7890</p>
+                <p>Jug Bogdana 10, Inđija</p>
+                <p>contact@raolen-gradnja.com</p>
+                <p>064 123 555</p>
               </div>
             </Animated>
           </div>
