@@ -59,3 +59,5 @@ const Nav = ({ containerStyles, linkStyles }) => {
     </nav>
   );
 };
+
+export default Nav;

@@ -22,7 +22,15 @@ export default function NavBar() {
               <Link href="#hero">Početna</Link>
             </li>
             <li>
-              <Link href="#about">O Nama</Link>
+              <Link
+                href="#about"
+                key={1}
+                spy={true}
+                smooth={true}
+                duration={500}
+              >
+                O Nama
+              </Link>
             </li>
             <li>
               <Link href="#location">Lokacija</Link>

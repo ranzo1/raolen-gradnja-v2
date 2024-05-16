@@ -7,7 +7,7 @@ export default function Hero() {
   return (
     <section
       id="#hero"
-      className="hero h-[640px] xl:h-[840px] bg-hero bg-center lg:bg-cover bg-no-repeat bg-fixed xl:rounded-bl-[290px] relative z-20"
+      className="hero h-[640px] xl:h-[840px] bg-hero bg-center lg:bg-cover bg-no-repeat xl:rounded-bl-[290px] relative z-20"
     >
       <Animated
         className="container mx-auto h-full flex items-center justify-center xl:justify-start"
