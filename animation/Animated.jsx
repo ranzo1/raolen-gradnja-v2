@@ -7,7 +7,7 @@ const Animated = ({ animation, elementType, className, children, ...rest }) => {
     <Component
       initial="hidden"
       whileInView="show"
-      viewport={{ once: true, amount: 0.4 }}
+      viewport={{ once: true, amount: 0.2 }}
       variants={animation}
       className={className}
       {...rest}
